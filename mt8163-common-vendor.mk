@@ -63,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/hw/gralloc.mt8163.mali.so:system/lib/hw/gralloc.mt8163.mali.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/hwcomposer.mt8163.so:system/lib/hw/hwcomposer.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/keystore.mt8163.so:system/lib/hw/keystore.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib/hw/lights.mt8163.so:system/lib/hw/lights.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/memtrack.mt8163.so:system/lib/hw/memtrack.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.default.so:system/lib/hw/perfboost.default.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.mt8163.so:system/lib/hw/perfboost.mt8163.so \
@@ -148,7 +147,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/gralloc.mt8163.mali.so:system/lib64/hw/gralloc.mt8163.mali.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/hwcomposer.mt8163.so:system/lib64/hw/hwcomposer.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/keystore.mt8163.so:system/lib64/hw/keystore.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/hw/lights.mt8163.so:system/lib64/hw/lights.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/memtrack.mt8163.so:system/lib64/hw/memtrack.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.default.so:system/lib64/hw/perfboost.default.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.mt8163.so:system/lib64/hw/perfboost.mt8163.so \
