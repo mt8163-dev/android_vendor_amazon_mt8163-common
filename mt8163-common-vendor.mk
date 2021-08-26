@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.mt8163.so:system/lib/hw/perfboost.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/sensors.mt8163.so:system/lib/hw/sensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/thermal.mt8163.so:system/lib/hw/thermal.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
     vendor/amazon/mt8163-common/proprietary/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
     vendor/amazon/mt8163-common/proprietary/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
     vendor/amazon/mt8163-common/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
@@ -155,7 +154,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.mt8163.so:system/lib64/hw/perfboost.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/sensors.mt8163.so:system/lib64/hw/sensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/thermal.mt8163.so:system/lib64/hw/thermal.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/hw/vibrator.default.so:system/lib64/hw/vibrator.default.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libMtkOmxCore.so:system/lib64/libMtkOmxCore.so \
     vendor/amazon/mt8163-common/proprietary/lib64/lib_uree_mtk_crypto.so:system/lib64/lib_uree_mtk_crypto.so \
