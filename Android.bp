@@ -1,0 +1,63 @@
+cc_prebuilt_library_shared {
+    name: "libnvram",
+    vendor: true,
+    target: {
+             android_arm: {
+                    srcs: ["proprietary/lib/libnvram.so"],
+             },
+             android_arm64: {
+                    srcs: ["proprietary/lib64/libnvram.so"],
+             },
+            },
+           strip: {
+                   none:true,
+             },
+    }
+
+cc_prebuilt_library_shared {
+    name: "libnvramagentclient",
+    vendor: true,
+    target: {
+             android_arm: {
+                    srcs: ["proprietary/lib/libnvramagentclient.so"],
+             },
+             android_arm64: {
+                    srcs: ["proprietary/lib64/libnvramagentclient.so"],
+             },
+            },
+           strip: {
+                   none:true,
+             },
+    }
+
+cc_prebuilt_library_shared {
+    name: "libdpframework",
+    vendor: true,
+    target: {
+             android_arm: {
+                    srcs: ["proprietary/lib/libdpframework.so"],
+             },
+             android_arm64: {
+                    srcs: ["proprietary/lib64/libdpframework.so"],
+             },
+            },
+           strip: {
+                   none:true,
+             },
+    }
+
+cc_prebuilt_library_shared {
+    name: "libion_mtk",
+    vendor: true,
+    target: {
+             android_arm: {
+                    srcs: ["proprietary/lib/libion_mtk.so"],
+             },
+             android_arm64: {
+                    srcs: ["proprietary/lib64/libion_mtk.so"],
+             },
+            },
+           strip: {
+                   none:true,
+             },
+    }
