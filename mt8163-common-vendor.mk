@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetooth_mtk_pure.so:system/lib/libbluetooth_mtk_pure.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetooth_relayer.so:system/lib/libbluetooth_relayer.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
-    vendor/amazon/mt8163-common/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/amazon/mt8163-common/proprietary/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcjson.so:system/lib/libcjson.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
