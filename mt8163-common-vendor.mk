@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/drm/libdrmplayreadyplugin.so:system/lib/drm/libdrmplayreadyplugin.so \
     vendor/amazon/mt8163-common/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/amzn_dha.mt8163.so:system/lib/hw/amzn_dha.mt8163.so \
+    vendor/amazon/mt8163-common/proprietary/lib/hw/amzn_drmprov.mt8163.so:system/lib/hw/amzn_drmprov.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/audio.primary.mt8163.so:system/lib/hw/audio.primary.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/gralloc.mt8163.mali.so:system/lib/hw/gralloc.mt8163.mali.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/hwcomposer.mt8163.so:system/lib/hw/hwcomposer.mt8163.so \
@@ -142,6 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/soundfx/libaudiofx.so:system/lib/soundfx/libaudiofx.so \
     vendor/amazon/mt8163-common/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/amzn_dha.mt8163.so:system/lib64/hw/amzn_dha.mt8163.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/hw/amzn_drmprov.mt8163.so:system/lib64/hw/amzn_drmprov.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/audio.primary.mt8163.so:system/lib64/hw/audio.primary.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/gralloc.mt8163.mali.so:system/lib64/hw/gralloc.mt8163.mali.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/hwcomposer.mt8163.so:system/lib64/hw/hwcomposer.mt8163.so \
