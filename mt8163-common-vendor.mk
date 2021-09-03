@@ -92,7 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
     vendor/amazon/mt8163-common/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
-    vendor/amazon/mt8163-common/proprietary/lib/libbluetooth_mtk.so:system/lib/libbluetooth_mtk.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetooth_mtk_pure.so:system/lib/libbluetooth_mtk_pure.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetooth_relayer.so:system/lib/libbluetooth_relayer.so \
     vendor/amazon/mt8163-common/proprietary/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
@@ -168,7 +167,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/libaudiodcrflt.so:system/lib64/libaudiodcrflt.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libbessound_hd_mtk.so:system/lib64/libbessound_hd_mtk.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/libbluetooth_mtk.so:system/lib64/libbluetooth_mtk.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libbluetooth_mtk_pure.so:system/lib64/libbluetooth_mtk_pure.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libbluetooth_relayer.so:system/lib64/libbluetooth_relayer.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
