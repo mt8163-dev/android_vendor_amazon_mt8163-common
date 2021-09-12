@@ -233,6 +233,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/vendor/lib64/libhadeanframework_core.so:system/vendor/lib64/libhadeanframework_core.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib64/libhadeangpu_util.so:system/vendor/lib64/libhadeangpu_util.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib64/liboemcrypto.so:system/vendor/lib64/liboemcrypto.so \
+    vendor/amazon/mt8163-common/proprietary/vendor/lib64/libwifi-hal.so:system/vendor/lib64/libwifi-hal.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so \
     vendor/amazon/mt8163-common/proprietary/xbin/trapz:system/xbin/trapz \
