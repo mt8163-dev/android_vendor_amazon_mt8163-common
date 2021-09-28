@@ -68,7 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/hw/memtrack.mt8163.so:system/lib/hw/memtrack.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.default.so:system/lib/hw/perfboost.default.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.mt8163.so:system/lib/hw/perfboost.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib/hw/sensors.mt8163.so:system/lib/hw/sensors.mt8163.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libsensors.mt8163.so:system/lib/libsensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/thermal.mt8163.so:system/lib/hw/thermal.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/lib3a.so:system/lib/lib3a.so \
     vendor/amazon/mt8163-common/proprietary/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
@@ -199,7 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/memtrack.mt8163.so:system/lib64/hw/memtrack.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.default.so:system/lib64/hw/perfboost.default.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.mt8163.so:system/lib64/hw/perfboost.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/hw/sensors.mt8163.so:system/lib64/hw/sensors.mt8163.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libsensors.mt8163.so:system/lib64/libsensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/thermal.mt8163.so:system/lib64/hw/thermal.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/lib3a.so:system/lib64/lib3a.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
