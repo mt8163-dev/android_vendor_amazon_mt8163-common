@@ -181,9 +181,10 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libtz_uree.so:system/lib/libtz_uree.so \
     vendor/amazon/mt8163-common/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:system/lib/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvc1dec_sa.ca7.so:system/lib/libvc1dec_sa.ca7.so \
-    vendor/amazon/mt8163-common/proprietary/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libvcodec_cap.so:system/lib/libvcodec_cap.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvp8dec_sa.ca7.so:system/lib/libvp8dec_sa.ca7.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
@@ -299,6 +300,8 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/libtz_uree.so:system/lib64/libtz_uree.so \
     vendor/amazon/mt8163-common/proprietary/lib64/liburee_meta_drmkeyinstall_v2.so:system/lib64/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libvcodec_utility.so:system/lib64/libvcodec_utility.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libvcodecdrv.so:system/lib64/libvcodecdrv.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libvcodec_cap.so:system/lib64/libvcodec_cap.so \
     vendor/amazon/mt8163-common/proprietary/lib64/soundfx/libaudiofx.so:system/lib64/soundfx/libaudiofx.so \
     vendor/amazon/mt8163-common/proprietary/vendor/data/amz.rsa:system/vendor/data/amz.rsa \
     vendor/amazon/mt8163-common/proprietary/vendor/data/tl1.rsa:system/vendor/data/tl1.rsa \
