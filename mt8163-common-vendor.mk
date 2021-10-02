@@ -114,6 +114,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libcam.metadataprovider.so:system/lib/libcam.metadataprovider.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcam.paramsmgr.so:system/lib/libcam.paramsmgr.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcam.sdkclient.so:system/lib/libcam.sdkclient.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libcam.utils.sensorlistener.so:system/lib/libcam.utils.sensorlistener.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcam.utils.so:system/lib/libcam.utils.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcam1_utils.so:system/lib/libcam1_utils.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcam3_app.so:system/lib/libcam3_app.so \
@@ -237,6 +238,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam.metadataprovider.so:system/lib64/libcam.metadataprovider.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam.paramsmgr.so:system/lib64/libcam.paramsmgr.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam.sdkclient.so:system/lib64/libcam.sdkclient.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libcam.utils.sensorlistener.so:system/lib64/libcam.utils.sensorlistener.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam.utils.so:system/lib64/libcam.utils.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam1_utils.so:system/lib64/libcam1_utils.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcam3_app.so:system/lib64/libcam3_app.so \
