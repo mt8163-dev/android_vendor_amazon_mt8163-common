@@ -311,7 +311,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/vendor/etc/audio-algorithms/EQ_2048.cfg:system/vendor/etc/audio-algorithms/EQ_2048.cfg \
     vendor/amazon/mt8163-common/proprietary/vendor/etc/audio-algorithms/MBCL.cfg:system/vendor/etc/audio-algorithms/MBCL.cfg \
     vendor/amazon/mt8163-common/proprietary/vendor/etc/audio-algorithms/coefs_FilterBank.cfg:system/vendor/etc/audio-algorithms/coefs_FilterBank.cfg \
-    vendor/amazon/mt8163-common/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
+    vendor/amazon/mt8163-common/proprietary/vendor/etc/audio_effects.xml:system/vendor/etc/audio_effects.xml \
     vendor/amazon/mt8163-common/proprietary/vendor/etc/dolby/ds1-0031.xml:system/vendor/etc/dolby/ds1-0031.xml \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
