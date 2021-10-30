@@ -61,3 +61,19 @@ cc_prebuilt_library_shared {
                    none:true,
              },
     }
+
+cc_prebuilt_library_shared {
+    name: "libcrypaz",
+    vendor: true,
+    target: {
+             android_arm: {
+                    srcs: ["proprietary/lib/libcrypaz.so"],
+             },
+             android_arm64: {
+                    srcs: ["proprietary/lib64/libcrypaz.so"],
+             },
+            },
+           strip: {
+                   none:true,
+             },
+    }

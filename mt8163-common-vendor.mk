@@ -135,6 +135,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcjson.so:system/lib/libcjson.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libcrypaz.so:system/lib/libcrypaz.so \
     vendor/amazon/mt8163-common/proprietary/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
     vendor/amazon/mt8163-common/proprietary/lib/libdirect-coredump.so:system/lib/libdirect-coredump.so \
     vendor/amazon/mt8163-common/proprietary/lib/libdrmmtkutil.so:system/lib/libdrmmtkutil.so \
@@ -262,6 +263,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/libccci_util.so:system/lib64/libccci_util.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcjson.so:system/lib64/libcjson.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcustom_nvram.so:system/lib64/libcustom_nvram.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libcrypaz.so:system/lib64/libcrypaz.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libcvsd_mtk.so:system/lib64/libcvsd_mtk.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libdirect-coredump.so:system/lib64/libdirect-coredump.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libdrmmtkutil.so:system/lib64/libdrmmtkutil.so \
