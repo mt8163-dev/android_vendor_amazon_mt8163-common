@@ -144,7 +144,9 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libfeatureio.so:system/lib/libfeatureio.so \
     vendor/amazon/mt8163-common/proprietary/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/amazon/mt8163-common/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
-    vendor/amazon/mt8163-common/proprietary/lib/libged.so:system/lib/libged.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libged.so:system/lib64/libged.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libgas.so:system/lib64/libgas.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libfposervice.so:system/lib64/libfposervice.so \
     vendor/amazon/mt8163-common/proprietary/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
     vendor/amazon/mt8163-common/proprietary/lib/libhevce_sb.ca7.android.so:system/lib/libhevce_sb.ca7.android.so \
     vendor/amazon/mt8163-common/proprietary/lib/libhwm.so:system/lib/libhwm.so \
@@ -272,6 +274,8 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libfile_op.so:system/lib64/libfile_op.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libged.so:system/lib64/libged.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libgas.so:system/lib64/libgas.so \
+    vendor/amazon/mt8163-common/proprietary/lib64/libfposervice.so:system/lib64/libfposervice.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libimageio.so:system/lib64/libimageio.so \
