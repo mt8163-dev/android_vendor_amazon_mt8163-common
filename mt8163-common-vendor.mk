@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/etc/firmware/gt9xx_fw.bin:system/etc/firmware/gt9xx_fw.bin \
     vendor/amazon/mt8163-common/proprietary/etc/firmware/md32_d.bin:system/etc/firmware/md32_d.bin \
     vendor/amazon/mt8163-common/proprietary/etc/firmware/md32_p.bin:system/etc/firmware/md32_p.bin \
-    vendor/amazon/mt8163-common/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/amazon/mt8163-common/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/amazon/mt8163-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/amazon/mt8163-common/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
@@ -74,11 +73,19 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
     vendor/amazon/mt8163-common/proprietary/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
     vendor/amazon/mt8163-common/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
-    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxAIVPlayer.so:system/lib/libMtkOmxAIVPlayer.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxAdpcmDec.so:system/lib/libMtkOmxAdpcmDec.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxAdpcmEnc.so:system/lib/libMtkOmxAdpcmEnc.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
     vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxCore.so:system/lib/libMtkOmxCore.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxFlacDec.so:system/lib/libMtkOmxFlacDec.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxG711Dec.so:system/lib/libMtkOmxG711Dec.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxGsmDec.so:system/lib/libMtkOmxGsmDec.so \
     vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxMp3Dec.so:system/lib/libMtkOmxMp3Dec.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxRawDec.so:system/lib/libMtkOmxRawDec.so \
     vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxVdecEx.so:system/lib/libMtkOmxVdecEx.so \
     vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxVenc.so:system/lib/libMtkOmxVenc.so \
+    vendor/amazon/mt8163-common/proprietary/lib/libMtkOmxVorbisEnc.so:system/lib/libMtkOmxVorbisEnc.so \
     vendor/amazon/mt8163-common/proprietary/lib/libSwJpgCodec.so:system/lib/libSwJpgCodec.so \
     vendor/amazon/mt8163-common/proprietary/lib/lib_uree_mtk_crypto.so:system/lib/lib_uree_mtk_crypto.so \
     vendor/amazon/mt8163-common/proprietary/lib/lib_uree_mtk_modular_drm.so:system/lib/lib_uree_mtk_modular_drm.so \
