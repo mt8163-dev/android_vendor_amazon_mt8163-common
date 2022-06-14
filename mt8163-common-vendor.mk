@@ -200,7 +200,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/libvp8dec_sa.ca7.so:system/lib/libvp8dec_sa.ca7.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/amazon/mt8163-common/proprietary/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
-    vendor/amazon/mt8163-common/proprietary/lib/modules/ufsd.ko:system/lib/modules/ufsd.ko \
     vendor/amazon/mt8163-common/proprietary/lib/soundfx/libaudiofx.so:system/lib/soundfx/libaudiofx.so \
     vendor/amazon/mt8163-common/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/amzn_dha.mt8163.so:system/lib64/hw/amzn_dha.mt8163.so \
