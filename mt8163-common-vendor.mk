@@ -7,6 +7,9 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/vendor/bin/hw/android.hardware.drm@1.1-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.1-service.widevine \
+    vendor/amazon/mt8163-common/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.wifi@1.0-service-mediatek \
+    vendor/amazon/mt8163-common/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
+    vendor/amazon/mt8163-common/proprietary/vendor/bin/hw/wpa_supplicant:$(TARGET_COPY_OUT_VENDOR)/bin/hw/wpa_supplicant \
     vendor/amazon/mt8163-common/proprietary/bin/6620_launcher:$(TARGET_COPY_OUT_SYSTEM)/bin/6620_launcher \
     vendor/amazon/mt8163-common/proprietary/bin/6620_wmt_concurrency:$(TARGET_COPY_OUT_SYSTEM)/bin/6620_wmt_concurrency \
     vendor/amazon/mt8163-common/proprietary/bin/6620_wmt_lpbk:$(TARGET_COPY_OUT_SYSTEM)/bin/6620_wmt_lpbk \
@@ -275,10 +278,12 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/liburee_meta_drmkeyinstall_v2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_cap.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libvcodec_utility.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_utility.so \
-    vendor/amazon/mt8163-common/proprietary/vendor/lib64/libwifi-hal.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwifi-hal.so \
+    vendor/amazon/mt8163-common/proprietary/vendor/lib/libwifi-hal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwifi-hal.so \
     vendor/amazon/mt8163-common/proprietary/lib64/soundfx/libaudiofx.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/soundfx/libaudiofx.so \
     vendor/amazon/mt8163-common/proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.1-service.widevine.rc \
+    vendor/amazon/mt8163-common/proprietary/vendor/etc/init/android.hardware.wifi@1.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.wifi@1.0-service-mediatek.rc \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/drm/libdrmwvmplugin.so \
+    vendor/amazon/mt8163-common/proprietary/vendor/lib/fireos.hardware.connectivity@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/fireos.hardware.connectivity@1.0.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libWVStreamControlAPI_L1.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
     vendor/amazon/mt8163-common/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
