@@ -48,8 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib/hw/hwcomposer.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/hwcomposer.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/keystore.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/keystore.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/memtrack.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/memtrack.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/perfboost.default.so \
-    vendor/amazon/mt8163-common/proprietary/lib/hw/perfboost.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/perfboost.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/libsensors.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/hw/thermal.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/thermal.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib/lib3a.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib3a.so \
@@ -181,8 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/hwcomposer.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/hwcomposer.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/keystore.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/keystore.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/memtrack.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/memtrack.mt8163.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/perfboost.default.so \
-    vendor/amazon/mt8163-common/proprietary/lib64/hw/perfboost.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/perfboost.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/libsensors.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsensors.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/hw/thermal.mt8163.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/thermal.mt8163.so \
     vendor/amazon/mt8163-common/proprietary/lib64/lib3a.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/lib3a.so \
