@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8163-common/proprietary/bin/amzn_dha_tool:$(TARGET_COPY_OUT_SYSTEM)/bin/amzn_dha_tool \
     vendor/amazon/mt8163-common/proprietary/bin/amzn_drmprov_check:$(TARGET_COPY_OUT_SYSTEM)/bin/amzn_drmprov_check \
     vendor/amazon/mt8163-common/proprietary/bin/amzn_drmprov_tool:$(TARGET_COPY_OUT_SYSTEM)/bin/amzn_drmprov_tool \
+    vendor/amazon/mt8163-common/proprietary/bin/chargeonlymode:$(TARGET_COPY_OUT_SYSTEM)/bin/chargeonlymode \
     vendor/amazon/mt8163-common/proprietary/bin/devicetype_service:$(TARGET_COPY_OUT_SYSTEM)/bin/devicetype_service \
     vendor/amazon/mt8163-common/proprietary/bin/guiext-server:$(TARGET_COPY_OUT_SYSTEM)/bin/guiext-server \
     vendor/amazon/mt8163-common/proprietary/bin/idme:$(TARGET_COPY_OUT_SYSTEM)/bin/idme \
